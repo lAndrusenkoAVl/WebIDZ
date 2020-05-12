@@ -1,0 +1,25 @@
+html {height: auto;
+width: auto;}
+img {margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 15px;
+}
+
+/*#pos {  position: relative;
+top: 100px;
+} */
+.blak { font-weight: bold;
+
+}
+.shrift {font-family: 'Dancing Script', cursive;}
+ p,span,div ,blockquote,dt,h3,h1,td,h5{ text-align: center; }
+
+.leftimg {margin-left: 10px;
+ }
+   
+table {
+    width: auto; /* Ширина таблицы */
+    border: 2px solid ; /* Рамка вокруг таблицы */
+    margin: auto; /* Выравниваем таблицу по центру окна  */
+   }
+td,th {border: 2px solid ;}
